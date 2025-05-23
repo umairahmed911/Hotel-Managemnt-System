@@ -86,7 +86,7 @@ This project is for educational purposes and does not currently use an open-sour
    git clone https://github.com/yourusername/HotelManagementSystem.git
    cd HotelManagementSystem
 ````
-
+````
 2. Set up the MySQL database:
 
    * Import `hotel_db.sql` into your MySQL server.
